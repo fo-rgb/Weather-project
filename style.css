@@ -1,0 +1,48 @@
+.themeContainer{
+    align-content: center;
+    background-color:maroon;
+    
+    
+}
+
+.theme{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+
+}
+
+#drak{
+    background-color:black;
+    
+    
+}
+
+#salomon{
+    background-color: salmon;
+}
+#yellow{
+    background-color:yellow;
+
+}
+
+.themeDrak{
+    background-color: black;
+    color: white;
+}
+
+.themeSalomon{
+    background-color:salmon;
+    color:black;
+}
+
+.themeYellow{
+    background-color: yellow;
+    color: red;
+}
+#family{
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    font-size:larger;
+}
